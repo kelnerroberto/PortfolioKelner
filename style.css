@@ -12,19 +12,19 @@
  h3 {
      font-family: Tahoma, sans-serif;
  }
- #indice {
-     background-color: white;
- }
 
  #sobre {
      font-family: sans-serif;
      font-style: normal;
  }
 
+ .bg-white {
+     background-color: white;
+ }
+
  #od-list {
      color: rgb(0, 0, 0);
      font-family: sans-serif;
-     background-color: white;
     }
 
  #uo-list{
