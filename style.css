@@ -13,41 +13,33 @@
      font-family: Tahoma, sans-serif;
  }
 
- #sobre {
-     font-family: sans-serif;
-     font-style: normal;
- }
+ p {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
 
- .bg-white {
-     background-color: white;
- }
-
- #od-list {
-     color: rgb(0, 0, 0);
-     font-family: sans-serif;
-    }
-
- #uo-list{
+.lists{
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
      font-size: 16px;
     }
+    .redes {
+        color: #fff;
+        padding: 7px 10px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    
+    #git {
+        background-color: #3e454e;
+    }
 
-#dentre-habilidades {
-    font-family: sans-serif;
-    font-style: normal;
-}
+    #insta {
+        background-color: rgb(143, 12, 56);
+    }
 
-#proatividade {
-    font-family: sans-serif;
-    font-style: normal;
-}
-
-#passapref {
-    font-family: sans-serif;
-    font-style: normal;
-}
-
-#ul-passa{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 16px;
-}
+    #tt {
+        background-color: rgb(74, 146, 241);
+    }
