@@ -1,0 +1,53 @@
+ body {
+     background-color: #8c8d8f;
+ }
+ h1 {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ 
+ h2 {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+ h3 {
+     font-family: Tahoma, sans-serif;
+ }
+ #indice {
+     background-color: white;
+ }
+
+ #sobre {
+     font-family: sans-serif;
+     font-style: normal;
+ }
+
+ #od-list {
+     color: rgb(0, 0, 0);
+     font-family: sans-serif;
+     background-color: white;
+    }
+
+ #uo-list{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 16px;
+    }
+
+#dentre-habilidades {
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+#proatividade {
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+#passapref {
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+#ul-passa{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+}
