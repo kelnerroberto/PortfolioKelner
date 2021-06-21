@@ -7,14 +7,22 @@
  }
 
  #cabecudo {
-    border-radius: 2em;
-    border-style: hidden;
-    width: 175px;
+    height: 250px;
+    float: left;
 }
 
  .inline {
      display: inline-block;
-     text-align: justify;
+ }
+
+ .inline p {
+     margin-top: 75px;
+     text-align: start;
+     margin-left: 170px;
+ }
+
+ .cabecalho {
+     text-align: center;
  }
 
  h1 {
