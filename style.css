@@ -1,5 +1,7 @@
  body {
      background-color: #8c8d8f;
+     margin-left: 0px;
+     margin-top: 0px;
  }
 
  #cabecudo {
@@ -19,17 +21,34 @@
 
  .cabecalho {
      text-align: center;
+     margin-top: 5%;
  }
 
- .navigator {
-     background-color: purple;
+ .top-align {
+     text-decoration: none;
+     background-color: rgb(32, 30, 30);
+     position: fixed;
+     width: 100%;
+ }
+
+ .list-nav li{
+     list-style: none;
+     display: inline-block;
+     background-color: rgba(155, 158, 167, 0.692);
+     padding: 4px 6px;
+     border-radius: 5px;
+     margin-right: 14px;
+     margin-left: 14px;
+ }
+
+ #li-nav {
+     color: white;
      text-decoration: none;
  }
 
- .navigator li{
-     list-style: none;
-     display: inline-block;
-     background-color: red;
+ #li-nav:hover {
+    font-size: 18px;
+    padding: 7px 9px;
  }
 
  h1 {
